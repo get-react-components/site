@@ -1,0 +1,27 @@
+{
+  "name": "grc-site",
+  "version": "1.0.0",
+  "description": "Source code of Get React Components website",
+  "scripts": {
+    "start": "gitbook serve",
+    "build": "gitbook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/get-react-components/site.git"
+  },
+  "keywords": [
+    "react",
+    "components",
+    "bulma"
+  ],
+  "author": "Ashwin Hegde <ashwin.hegde3@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/get-react-components/site/issues"
+  },
+  "homepage": "https://github.com/get-react-components/site#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
