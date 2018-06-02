@@ -1,8 +1,5 @@
-# Site
+# Get React Components
 
-Source code of Get React Components website
+Build React components using Bulma as base CSS framework
 
-# Logo
-
-Check out the new logo that I created on <a href="http://logomakr.com" title="Logo Makr">LogoMakr.com</a> 
-https://logomakr.com/5Z8IIu
+> by [Ashwin Hegde](https://github.com/hegdeashwin) - visit at [www.techjitsu.co.in](https://www.techjitsu.co.in)
